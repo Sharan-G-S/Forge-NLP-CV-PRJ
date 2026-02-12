@@ -1,5 +1,5 @@
 #  Forge NLP & Computer Vision 
-# Projects BY SHARAN G S
+#  BY SHARAN G S
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Latest-red.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-green.svg)
