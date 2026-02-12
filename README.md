@@ -5,8 +5,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-A comprehensive portfolio of **Natural Language Processing (NLP)** and **Computer Vision (CV)** projects showcasing advanced machine learning, deep learning, and AI implementations.
-
 ---
 
 ##  Overview
