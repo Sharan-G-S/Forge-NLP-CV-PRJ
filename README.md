@@ -49,7 +49,7 @@ This repository contains a diverse collection of cutting-edge NLP and CV project
 - **Adaptive Hierarchical RNN ABSA** - Aspect-Based Sentiment Analysis using RNN
 - **Syntactic Parser** - Semantic and syntactic parsing
 
-### 🤖 Deep Learning Models
+###  Deep Learning Models
 
 - **CNN Implementations**
   - Padding, stride, and pooling demonstrations
