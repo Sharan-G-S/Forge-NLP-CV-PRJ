@@ -1,0 +1,19 @@
+# Requirements for Gesture Control Applications by Sharan G S
+# Install with: pip install -r requirements.txt
+
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.24.0
+pyautogui>=0.9.54
+
+# Optional dependencies for specific applications:
+# For brightness control on some systems:
+# brightness>=0.2.0
+
+# For Windows brightness control:
+# wmi>=1.5.1
+
+# Note: Some applications may require system-specific tools:
+# - macOS: 'brightness' command-line tool for brightness control
+# - Linux: xrandr for brightness control
+# - Windows: WMI for brightness control
