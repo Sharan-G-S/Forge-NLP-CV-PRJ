@@ -1,5 +1,5 @@
-# 🚀 Forge NLP & Computer Vision Projects BY SHARAN G S
-
+#  Forge NLP & Computer Vision 
+# Projects BY SHARAN G S
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Latest-red.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-green.svg)
@@ -9,7 +9,7 @@ A comprehensive portfolio of **Natural Language Processing (NLP)** and **Compute
 
 ---
 
-## 📋 Overview
+##  Overview
 
 This repository contains a diverse collection of cutting-edge NLP and CV projects, including:
 
@@ -21,9 +21,9 @@ This repository contains a diverse collection of cutting-edge NLP and CV project
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🎮 Computer Vision Applications
+###  Computer Vision Applications
 
 #### Gesture Control Systems
 - **Brightness Control** - Control screen brightness with hand gestures
@@ -39,7 +39,7 @@ This repository contains a diverse collection of cutting-edge NLP and CV project
 - **Quality Control** - Bottle quality control using CNN (includes trained model)
 - **Manual Filtering** - Custom image filtering implementations
 
-### 🧠 Natural Language Processing
+###  Natural Language Processing
 
 #### Language Models
 - **Window-based Language Model** - N-gram based language modeling
@@ -65,7 +65,7 @@ This repository contains a diverse collection of cutting-edge NLP and CV project
 - **Deep Reinforcement Learning**
   - DRL for image manipulation
 
-### 🎯 AI Agents
+###  AI Agents
 
 - **Negotiation Agent** - AI-powered negotiation system with Streamlit UI
   - Simulates marketplace negotiations
@@ -74,18 +74,18 @@ This repository contains a diverse collection of cutting-edge NLP and CV project
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Forge-NLP_CV/
-├── 🎮 Gesture Control Applications
+├──  Gesture Control Applications
 │   ├── gesture_brightness_control.py
 │   ├── gesture_mouse_control.py
 │   ├── gesture_music_control.py
 │   ├── gesture_presentation_control.py
 │   └── gesture_drawing_app.py
 │
-├── 🖼️ Computer Vision
+├──  Computer Vision
 │   ├── img-cv.py
 │   ├── restoration.py
 │   ├── Anomaly-detect.py
@@ -96,7 +96,7 @@ Forge-NLP_CV/
 │   ├── drl_image_manipulation.py
 │   └── unsupervised_anomaly_detection.py
 │
-├── 📝 Natural Language Processing
+├──  Natural Language Processing
 │   ├── window_based_language_model.py
 │   ├── statistical_machine_translation.py
 │   ├── word_to_vector_examples.py
@@ -106,32 +106,32 @@ Forge-NLP_CV/
 │   ├── test-nltk.py
 │   └── tes-nltk.py
 │
-├── 🤖 AI Agents
+├──  AI Agents
 │   ├── app.py (Streamlit Negotiation Agent)
 │   └── negotiation_agent.py
 │
-├── 🧪 Testing & Utilities
+├──  Testing & Utilities
 │   ├── test_brightness_control.py
 │   └── test_mouse_permissions.py
 │
-├── 📦 Trained Models
+├──  Trained Models
 │   ├── adaptive_hierarchical_rnn_absa.pth
 │   ├── bottle_quality_control_model.pth
 │   └── domain_adapted_llm.pth
 │
-├── 📊 Outputs & Datasets
+├──  Outputs & Datasets
 │   ├── datasets_synth/
 │   ├── outputs/
 │   └── training_curves.png
 │
-└── 📄 Documentation
+└──  Documentation
     ├── README.md
     └── requirements.txt
 ```
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.7 or higher
@@ -179,7 +179,7 @@ Forge-NLP_CV/
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 ### Gesture Control Applications
 
@@ -276,7 +276,7 @@ Then open your browser to `http://localhost:8501`
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 See [requirements.txt](requirements.txt) for a complete list of dependencies.
 
@@ -291,7 +291,7 @@ See [requirements.txt](requirements.txt) for a complete list of dependencies.
 
 ---
 
-## 🎯 Key Features by Category
+##  Key Features by Category
 
 ### Gesture Control
 - ✅ Real-time hand tracking
@@ -323,7 +323,7 @@ See [requirements.txt](requirements.txt) for a complete list of dependencies.
 
 ---
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 ### Camera Issues
 - Ensure camera is not being used by another application
@@ -349,7 +349,7 @@ System Preferences → Security & Privacy → Privacy → Accessibility
 
 ---
 
-## 📚 Documentation
+##  Documentation
 
 Each major component includes inline documentation and comments. For detailed usage:
 
@@ -359,7 +359,7 @@ Each major component includes inline documentation and comments. For detailed us
 
 ---
 
-## 🎓 Learning Resources
+##  Learning Resources
 
 This repository demonstrates:
 - **Computer Vision**: Hand tracking, gesture recognition, image processing
@@ -370,46 +370,29 @@ This repository demonstrates:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 This is a personal portfolio project. However, suggestions and feedback are welcome!
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the MIT License.
 
 ---
 
-## 👤 Author
-
+##  Author
 **Sharan G S**
-
-A passionate AI/ML engineer specializing in Natural Language Processing and Computer Vision. This repository showcases a diverse range of projects demonstrating expertise in:
-- Deep Learning (PyTorch)
-- Computer Vision (OpenCV, MediaPipe)
-- Natural Language Processing (NLTK, Transformers)
-- AI Agent Development
-- Full-stack ML Applications
-
 ---
 
-## 🌟 Acknowledgments
 
-Special thanks to the open-source community for the amazing tools and libraries that made these projects possible:
-- PyTorch Team
-- OpenCV Contributors
-- MediaPipe Team
-- Streamlit Developers
-- NLTK Community
 
 ---
 
 <div align="center">
 
-### Made with ❤️ from Sharan G S
+### Made with 💚 from Sharan G S
 
-**If you found this repository helpful, please consider giving it a ⭐!**
 
 </div>
